@@ -1,0 +1,40 @@
+
+[
+    {
+      "id": 1,
+      "fullName": "Nagaraj",
+      "address": "Koppal",
+      "phoneNumber": "8431726634",
+      "email": "naguvasanad@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Manju",
+      "address": "Gulbarga",
+      "phoneNumber": "9711697611",
+      "email": "manju@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Vicky",
+      "address": "champion",
+      "phoneNumber": "7889627516",
+      "email": "vicky@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Naveen",
+      "address": "Sandur",
+      "phoneNumber": "7119625111",
+      "email": "naveen@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "sudarshan",
+      "address": "raichur",
+      "phoneNumber": "92319627516",
+      "email": "sudarshan@email.com"
+    }
+  ]
+
+  
